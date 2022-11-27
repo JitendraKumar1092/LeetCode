@@ -1,15 +1,11 @@
 class Solution {
-    public boolean isGoodArray(int[] nums) {
-        int gcd = nums[0];
-        for(int i = 1; i<nums.length; i++){
-            gcd = gcd(gcd, nums[i]);
-            if(gcd == 1)
-                return true;
-        }
-        return gcd==1;
+    public int poorPigs(int buckets, int mi, int mt) {
+      int period = mt / mi + 1;
+int ans = 0;
+while(Math.pow(period, ans) < buckets)
+{
+ans ++;
+}
+return ans;
     }
-    public int gcd(int a, int b){
-        if(b==0)
-            return a;
-        return gcd(b,a%b);
-    }}
+}
