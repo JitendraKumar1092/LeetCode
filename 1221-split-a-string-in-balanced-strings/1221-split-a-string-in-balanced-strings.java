@@ -1,7 +1,7 @@
 class Solution {
     public int balancedStringSplit(String s) 
     {
-        int answer =0, sum =0;
+        int a =0, sum =0;
         
         for(int i=0; i<s.length();i++)
         {
@@ -13,8 +13,8 @@ class Solution {
                 sum--;
             
             if(sum == 0)
-                answer++;
+                a++;
         }
-        return answer;
+        return a;
     }
 }
