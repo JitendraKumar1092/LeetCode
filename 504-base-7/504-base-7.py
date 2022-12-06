@@ -13,5 +13,5 @@ class Solution:
             s+=str(num%7)
             num//=7
         
-        z=int(s[::-1])*p
-        return str(z)
+        
+        return str(int(s[::-1])*p)
