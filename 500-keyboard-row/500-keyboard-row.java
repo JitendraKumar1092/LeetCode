@@ -9,8 +9,8 @@ class Solution {
         for(int i=0; i<a.length(); i++){
             map.put(a.charAt(i), i);
         }
-        for(int i=0; i<b.length(); i++){
-            map2.put(b.charAt(i), i);
+        for(int id=0; id<b.length(); id++){
+            map2.put(b.charAt(id), id);
         }
         for(int i=0; i<c.length(); i++){
             map3.put(c.charAt(i), i);
