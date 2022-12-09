@@ -12,8 +12,8 @@ class Solution {
         for(int idx=0; idx<b.length(); idx++){
             map2.put(b.charAt(idx), idx);
         }
-        for(int i=0; i<c.length(); i++){
-            map3.put(c.charAt(i), i);
+        for(int ix=0; ix<c.length(); ix++){
+            map3.put(c.charAt(ix), ix);
         }
         List<String> arr2 = new ArrayList();
         for(int i=0; i<words.length; i++){
