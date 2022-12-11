@@ -14,4 +14,4 @@ class Solution:
                     a[i]+=1
         if len(b)==1:
             return True
-        return False
+        return not True
