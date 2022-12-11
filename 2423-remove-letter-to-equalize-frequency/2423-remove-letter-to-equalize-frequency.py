@@ -13,5 +13,5 @@ class Solution:
                 else:
                     a[i]+=1
         if len(b)==1:
-            return True
+            return not False
         return not True
