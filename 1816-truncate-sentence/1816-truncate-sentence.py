@@ -1,8 +1,8 @@
 class Solution:
     def truncateSentence(self, s: str, k: int) -> str:
-        a = s.split()
+        arr = s.split()
         s=""
-        for _ in a:
+        for _ in arr:
             if(k):
                 s = s+_ + " "
                 k = k-1
