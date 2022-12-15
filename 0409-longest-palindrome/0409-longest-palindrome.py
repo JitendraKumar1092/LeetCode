@@ -11,7 +11,7 @@ class Solution:
                     hasht[i]=hasht[i]+1
             else:
                 hasht[i]=1
-        if len(hasht)>0:
+        if len(hasht)>=1:
             print(hasht)
             count+=1
         return count
