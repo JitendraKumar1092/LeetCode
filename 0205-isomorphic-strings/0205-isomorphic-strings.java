@@ -19,5 +19,6 @@ class Solution {
     
     public boolean isIsomorphic(String s, String t) {
         return transformString(s).equals(transformString(t));
+    
     }
 }
