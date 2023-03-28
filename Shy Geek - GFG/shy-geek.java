@@ -97,7 +97,7 @@ class Solution{
                 left = mid + 1;
             }
         }
-        // If the maximum price is 0, break the loop since there are no chocolates that the geek can afford.
+       
         if (maxPrice == 0) {
             break;
         }
