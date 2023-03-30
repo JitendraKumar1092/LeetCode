@@ -74,7 +74,7 @@ class Solution {
                    min=A[i];
              } 
          }
-         
+         // return 
          return min;
          
     }
