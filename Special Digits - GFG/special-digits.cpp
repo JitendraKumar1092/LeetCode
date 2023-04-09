@@ -19,6 +19,8 @@ class Solution {
         return false;
     }
     long long binpow(long long a,long long b,long long mod) {
+        // main function with three parameters
+        
         long long res=1;
         while(b) {
             if(b&1) {
@@ -28,7 +30,7 @@ class Solution {
             b>>=1;
         }
         return res;
-        //jshsgs
+    
     }
     int bestNumbers(int N, int A, int B, int C, int D) {
         if(A==B) {
