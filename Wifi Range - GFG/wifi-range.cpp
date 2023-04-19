@@ -13,7 +13,7 @@ class Solution{
     bool wifiRange(int N, string S, int X){
         // code here
         int vis[N+1]={0};
-        
+        //hello
         int left=0,right=0;
          
         for(int i=0;i<S.size();i++)
