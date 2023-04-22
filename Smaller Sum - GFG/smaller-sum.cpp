@@ -12,8 +12,10 @@ public:
     vector<long long> smallerSum(int n, vector<int>& arr) {
     vector<long long> ans;
     map<int, int> mp;
+    //hello
     map<int, long long> lessThan;
     for (int i = 0; i < n; i++) {
+        //dhdjnh
         mp[arr[i]]++;
     }
     long long lessSum = 0;
