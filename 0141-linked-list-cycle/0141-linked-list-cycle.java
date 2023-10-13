@@ -10,9 +10,9 @@
  * }
  */
 public class Solution {
-    public boolean hasCycle(ListNode head) {
+    public boolean hasCycle(ListNode dummy) {
         HashSet<ListNode> set = new HashSet<>();
-        ListNode dummy = head;
+        
         while(dummy != null){
            boolean flag=  set.add(dummy);
             dummy = dummy.next;
