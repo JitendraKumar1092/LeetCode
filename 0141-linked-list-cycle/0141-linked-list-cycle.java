@@ -11,14 +11,14 @@
  */
 public class Solution {
     public boolean hasCycle(ListNode head) {
-        int c1=0;
-         while (head != null){
-             c1++;
-            head = head.next;
-             if(c1 > 10000)
-                 return true;
-             
-         }
+        HashSet<ListNode> set = new HashSet<>();
+        ListNode dummy = head;
+        while(dummy != null){
+           boolean flag=  set.add(dummy);
+            dummy = dummy.next;
+            if (flag==false) return true;
+            
+        }
         return false;
     }
 }
