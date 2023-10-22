@@ -3,12 +3,12 @@ class Solution {
         int ind =-1 , c=0;
         int n = nums.length;
         
-        int cp[] = new int[n];
-        for ( int i=0; i<n ; i++){
-            cp[i] = nums[i];
-        }
+//         int cp[] = new int[n];
+//         for ( int i=0; i<n ; i++){
+//             cp[i] = nums[i];
+//         }
         
-        for (int i:cp){
+        for (int i:nums){
             if (i!=val){
                 nums[++ind] = i;
                 c++;
