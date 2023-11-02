@@ -17,6 +17,7 @@ class Solution {
         Stack<Character> stack = new Stack<>();
         String open ="({[";
         String close = "}])";
+        //done
         for (char i:s.toCharArray()){
             if (open.indexOf(i) != -1)
                 stack.push(i);
