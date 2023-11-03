@@ -20,6 +20,7 @@ class Solution {
         while(fast.next != null){
             fast = fast.next;
             slow = slow.next;
+            //n
         }
         slow.next = slow.next.next;
         return start.next;
