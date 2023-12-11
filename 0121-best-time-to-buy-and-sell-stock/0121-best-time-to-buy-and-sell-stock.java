@@ -9,6 +9,7 @@ class Solution {
             msf= Math.min(msf , arr[i]);
             
         }
+        // hello
         return mx;
         
 }
