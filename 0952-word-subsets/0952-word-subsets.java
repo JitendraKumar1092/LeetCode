@@ -7,7 +7,7 @@ class Solution {
         
 
         int[] bMaxFreq=new int[26];           
-      // Calculate maximum frequency for each character in words2      
+      
         for(int i=0; i<m; i++){
             int[] bArr=new int[26];
             for(char ch:words2[i].toCharArray()){
