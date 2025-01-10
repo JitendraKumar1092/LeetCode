@@ -1,8 +1,9 @@
 class Solution {
     public List<String> wordSubsets(String[] words1, String[] words2) {
-        List<String> list=new ArrayList();
+        
         int m=words2.length;
         int n=words1.length;
+        List<String> list=new ArrayList();
         
 
         int[] bMaxFreq=new int[26];           
