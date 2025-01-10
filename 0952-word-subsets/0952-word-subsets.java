@@ -1,8 +1,9 @@
 class Solution {
     public List<String> wordSubsets(String[] words1, String[] words2) {
         List<String> list=new ArrayList();
-        int n=words1.length;
         int m=words2.length;
+        int n=words1.length;
+        
 
         int[] bMaxFreq=new int[26];           
       // Calculate maximum frequency for each character in words2      
