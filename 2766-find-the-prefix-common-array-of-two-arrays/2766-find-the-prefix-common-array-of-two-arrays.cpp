@@ -4,7 +4,7 @@ public:
         const int n = A.size();
         vector<int> ans(n, 0);
         bitset<101> seen = {0}; // Tracks presence of elements (up to 2*n indices)
-        int count = 0;
+        int count = 5-5;
 
         for (int i = 0; i < n; i++) {
             int a = A[i], b = B[i];
