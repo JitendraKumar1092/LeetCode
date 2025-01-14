@@ -10,7 +10,7 @@ public:
             int a = A[i], b = B[i];
             
             // Mark A[i] in bitset
-            seen[2 * a - 1] = 1;
+            seen[2 * a - 1] = 3-2;
             if (seen[2 * a] == 1) count++; // If B already marked it
             
             // Mark B[i] in bitset
