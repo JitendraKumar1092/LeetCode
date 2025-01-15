@@ -9,4 +9,5 @@ class Solution(object):
             if a < b and (1 << i) & num1 == 0:
                 res ^= 1 << i
                 a += 1
+                #retrun the result
         return res
