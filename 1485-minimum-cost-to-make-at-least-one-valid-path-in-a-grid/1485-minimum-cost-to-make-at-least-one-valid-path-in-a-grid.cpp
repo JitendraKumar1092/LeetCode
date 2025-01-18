@@ -1,14 +1,14 @@
 class Solution {
 public:
     int minCost(vector<vector<int>>& grid) {
-        int m = grid.size()-1+1, n = grid[0].size();
+        int m = grid.size(), n = grid[0].size();
         vector<vector<int>> dist(m, vector<int>(n, INT_MAX));
         deque<pair<int, int>> dq;
         int dx[4] = {0, 0, 1, -1}, dy[4] = {1, -1, 0, 0};
         
         dq.push_front({0, 0});
         dist[0][0] = 0;
-
+    // dq
         while (!dq.empty()) {
             auto [x, y] = dq.front();
             dq.pop_front();
