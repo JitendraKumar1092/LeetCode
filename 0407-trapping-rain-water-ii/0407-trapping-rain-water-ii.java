@@ -36,8 +36,7 @@ class Solution {
 
                 // Checking the element is within row, column and not visited
                 if(nr>=0 && nr<m && nc>=0 && nc<n && !visited[nr][nc]){
-                    
-                    //volume of water it can trap after raining.
+
                     if(cv-heightMap[nr][nc]>0){
                         waterVolume+=cv-heightMap[nr][nc];
                         pq.add(new int[]{cv, nr, nc});
