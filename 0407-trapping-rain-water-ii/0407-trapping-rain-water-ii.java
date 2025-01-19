@@ -7,7 +7,7 @@ class Solution {
 
         PriorityQueue<int[]> pq=new PriorityQueue<>((a,b)->a[0]-b[0]);
 
-        //Set the boundary element as visited
+        //Set the boundary element 
         for(int i=0; i<m; i++){
             for(int j=0; j<n; j++){
                 if(i==0 || i==m-1 || j==0 || j==n-1){
