@@ -3,6 +3,7 @@ class Solution {
         long top = 0;
         for (int i = 0; i < grid[0].length; i++) {
             top += grid[0][i];
+            //add top
         }
         
         long bottom = 0, res = Long.MAX_VALUE;
