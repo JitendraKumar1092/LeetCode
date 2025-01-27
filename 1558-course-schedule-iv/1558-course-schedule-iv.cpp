@@ -4,7 +4,7 @@ public:
         // Step 1: Initialize the reachability map
         unordered_map<int, unordered_set<int>> reachable;
 
-        // Step 2: Build direct reachability chains
+        // Step 2: Build direct reachability 
         for (auto& prereq : prerequisites) {
             reachable[prereq[1]].insert(prereq[0]);
         }
