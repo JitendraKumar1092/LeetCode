@@ -7,6 +7,7 @@ public:
         }
         int temp=grid[i][j];
         vis[i][j]=1;
+        // time taken
         temp+=solve(i+1,j,grid,vis);
         temp+=solve(i-1,j,grid,vis);
         temp+=solve(i,j+1,grid,vis);
