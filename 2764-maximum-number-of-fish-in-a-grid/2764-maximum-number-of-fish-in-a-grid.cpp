@@ -7,13 +7,14 @@ public:
         }
         int temp=grid[i][j];
         vis[i][j]=1;
-        // time taken
+        // 
         temp+=solve(i+1,j,grid,vis);
         temp+=solve(i-1,j,grid,vis);
         temp+=solve(i,j+1,grid,vis);
         temp+=solve(i,j-1,grid,vis);
         return temp;
     }
+    // finding max fish
     int findMaxFish(vector<vector<int>>& grid) {
         m=grid.size(),n=grid[0].size();
         int ans=0;
