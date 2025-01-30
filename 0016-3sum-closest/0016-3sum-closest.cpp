@@ -5,7 +5,7 @@ public:
         int ans = nums[0] + nums[1] + nums[2], n = nums.size();
         for (int i = 0; i < n; i++) {
             int comp = target - nums[i], j = i + 1, k = n - 1;
-            //check j
+            //check if j is less than k
             while (j < k) {
                 int curr = nums[j] + nums[k] + nums[i];
                 if (abs(curr - target) < abs(ans - target)) ans = curr;
@@ -14,6 +14,7 @@ public:
                 else j++;
             }
         }
+        
         return ans;
     }
 };
