@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/JitendraKumar1092/LeetCode/tree/master/0016-3sum-closest) |
 | [0407-trapping-rain-water-ii](https://github.com/JitendraKumar1092/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/JitendraKumar1092/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2145-grid-game](https://github.com/JitendraKumar1092/LeetCode/tree/master/2145-grid-game) |
@@ -67,4 +68,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/JitendraKumar1092/LeetCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
+## Two Pointers
+|  |
+| ------- |
+| [0016-3sum-closest](https://github.com/JitendraKumar1092/LeetCode/tree/master/0016-3sum-closest) |
+## Sorting
+|  |
+| ------- |
+| [0016-3sum-closest](https://github.com/JitendraKumar1092/LeetCode/tree/master/0016-3sum-closest) |
 <!---LeetCode Topics End-->
