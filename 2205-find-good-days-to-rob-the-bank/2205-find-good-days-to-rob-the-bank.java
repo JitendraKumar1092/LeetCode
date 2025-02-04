@@ -23,6 +23,9 @@ class Solution {
         for(int j = security.length - 2; j >= 0; j--){
             if(security[j] <= security[j + 1]){
                 incr[j] = incr[j + 1] + 1; // Increment count if current is less than or equal to 
+
+
+
                 
             } else {
                 incr[j] = 0; // Reset count if trend breaks
