@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/JitendraKumar1092/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/JitendraKumar1092/LeetCode/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2145-grid-game](https://github.com/JitendraKumar1092/LeetCode/tree/master/2145-grid-game) |
+| [2205-find-good-days-to-rob-the-bank](https://github.com/JitendraKumar1092/LeetCode/tree/master/2205-find-good-days-to-rob-the-bank) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/JitendraKumar1092/LeetCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/JitendraKumar1092/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 ## Hash Table
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2145-grid-game](https://github.com/JitendraKumar1092/LeetCode/tree/master/2145-grid-game) |
+| [2205-find-good-days-to-rob-the-bank](https://github.com/JitendraKumar1092/LeetCode/tree/master/2205-find-good-days-to-rob-the-bank) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -78,4 +80,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/JitendraKumar1092/LeetCode/tree/master/0016-3sum-closest) |
+## Dynamic Programming
+|  |
+| ------- |
+| [2205-find-good-days-to-rob-the-bank](https://github.com/JitendraKumar1092/LeetCode/tree/master/2205-find-good-days-to-rob-the-bank) |
 <!---LeetCode Topics End-->
