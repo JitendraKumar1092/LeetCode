@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0407-trapping-rain-water-ii](https://github.com/JitendraKumar1092/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/JitendraKumar1092/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/JitendraKumar1092/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [1927-maximum-ascending-subarray-sum](https://github.com/JitendraKumar1092/LeetCode/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2145-grid-game](https://github.com/JitendraKumar1092/LeetCode/tree/master/2145-grid-game) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/JitendraKumar1092/LeetCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/JitendraKumar1092/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
