@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0016-3sum-closest](https://github.com/JitendraKumar1092/LeetCode/tree/master/0016-3sum-closest) |
 | [0407-trapping-rain-water-ii](https://github.com/JitendraKumar1092/LeetCode/tree/master/0407-trapping-rain-water-ii) |
+| [1364-tuple-with-same-product](https://github.com/JitendraKumar1092/LeetCode/tree/master/1364-tuple-with-same-product) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/JitendraKumar1092/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/JitendraKumar1092/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/JitendraKumar1092/LeetCode/tree/master/1927-maximum-ascending-subarray-sum) |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [1364-tuple-with-same-product](https://github.com/JitendraKumar1092/LeetCode/tree/master/1364-tuple-with-same-product) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/JitendraKumar1092/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 ## Bit Manipulation
 |  |
@@ -84,4 +86,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2205-find-good-days-to-rob-the-bank](https://github.com/JitendraKumar1092/LeetCode/tree/master/2205-find-good-days-to-rob-the-bank) |
+## Counting
+|  |
+| ------- |
+| [1364-tuple-with-same-product](https://github.com/JitendraKumar1092/LeetCode/tree/master/1364-tuple-with-same-product) |
 <!---LeetCode Topics End-->
