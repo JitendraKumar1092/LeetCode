@@ -7,6 +7,8 @@ class Solution {
             for (int j = i + 1; j < n; j++) {
                 int product = nums[i] * nums[j];
                 productCount.put(product, productCount.getOrDefault(product, 0) + 1);
+
+                // cv
             }
         }
         int result = 0;
@@ -15,6 +17,7 @@ class Solution {
                 result += count * (count - 1) * 4; 
             }
         }
+        //finsl
         return result;
     }
 }
