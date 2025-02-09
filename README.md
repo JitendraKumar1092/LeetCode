@@ -12,12 +12,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-maximum-ascending-subarray-sum](https://github.com/JitendraKumar1092/LeetCode/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2145-grid-game](https://github.com/JitendraKumar1092/LeetCode/tree/master/2145-grid-game) |
 | [2205-find-good-days-to-rob-the-bank](https://github.com/JitendraKumar1092/LeetCode/tree/master/2205-find-good-days-to-rob-the-bank) |
+| [2448-count-number-of-bad-pairs](https://github.com/JitendraKumar1092/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/JitendraKumar1092/LeetCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/JitendraKumar1092/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 ## Hash Table
 |  |
 | ------- |
 | [1364-tuple-with-same-product](https://github.com/JitendraKumar1092/LeetCode/tree/master/1364-tuple-with-same-product) |
+| [2448-count-number-of-bad-pairs](https://github.com/JitendraKumar1092/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/JitendraKumar1092/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 ## Bit Manipulation
 |  |
@@ -90,4 +92,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1364-tuple-with-same-product](https://github.com/JitendraKumar1092/LeetCode/tree/master/1364-tuple-with-same-product) |
+| [2448-count-number-of-bad-pairs](https://github.com/JitendraKumar1092/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
+## Math
+|  |
+| ------- |
+| [2448-count-number-of-bad-pairs](https://github.com/JitendraKumar1092/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 <!---LeetCode Topics End-->
