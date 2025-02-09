@@ -5,7 +5,11 @@ class Solution {
         for (int i = 0; i < nums.length; i++) {
             count += -1 + bag.merge(nums[i] - i, 1, Integer::sum);
         }
+
+
         int len = nums.length;
+
+        
         return 1L * len * (len - 1) / 2 - count;
     }
 }
