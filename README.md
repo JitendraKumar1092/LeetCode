@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/JitendraKumar1092/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0407-trapping-rain-water-ii](https://github.com/JitendraKumar1092/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/JitendraKumar1092/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1558-course-schedule-iv](https://github.com/JitendraKumar1092/LeetCode/tree/master/1558-course-schedule-iv) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/JitendraKumar1092/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [1558-course-schedule-iv](https://github.com/JitendraKumar1092/LeetCode/tree/master/1558-course-schedule-iv) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/JitendraKumar1092/LeetCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Topological Sort
@@ -112,4 +114,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1908-recyclable-and-low-fat-products](https://github.com/JitendraKumar1092/LeetCode/tree/master/1908-recyclable-and-low-fat-products) |
+## Tree
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/JitendraKumar1092/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/JitendraKumar1092/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 <!---LeetCode Topics End-->
