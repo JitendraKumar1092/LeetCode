@@ -14,23 +14,14 @@
  * }
  */
 class Solution {
-    static void func(TreeNode root){
-        if (root ==null)
-            return ;
-         
-         TreeNode temp = root.left;
+    public static TreeNode invertTree(TreeNode root) {
+        if (root == null)
+        return root;
+        invertTree(root.left);
+        invertTree(root.right);
+        TreeNode temp = root.left;
         root.left = root.right;
         root.right = temp;
-        func(root.left);
-        func(root.right);
-    }
-    //
-    
-    public TreeNode invertTree(TreeNode root) {
-      
-        func(root);
         return root;
-        
-        
     }
 }
