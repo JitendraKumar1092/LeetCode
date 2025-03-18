@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [1013-fibonacci-number](https://github.com/JitendraKumar1092/LeetCode/tree/master/1013-fibonacci-number) |
 | [2205-find-good-days-to-rob-the-bank](https://github.com/JitendraKumar1092/LeetCode/tree/master/2205-find-good-days-to-rob-the-bank) |
 ## Counting
 |  |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [1013-fibonacci-number](https://github.com/JitendraKumar1092/LeetCode/tree/master/1013-fibonacci-number) |
 | [1477-product-of-the-last-k-numbers](https://github.com/JitendraKumar1092/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [2448-count-number-of-bad-pairs](https://github.com/JitendraKumar1092/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 ## Design
@@ -133,4 +135,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/JitendraKumar1092/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/JitendraKumar1092/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0904-leaf-similar-trees](https://github.com/JitendraKumar1092/LeetCode/tree/master/0904-leaf-similar-trees) |
+## Recursion
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/JitendraKumar1092/LeetCode/tree/master/1013-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/JitendraKumar1092/LeetCode/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
