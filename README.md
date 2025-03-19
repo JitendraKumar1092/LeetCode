@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/JitendraKumar1092/LeetCode/tree/master/0016-3sum-closest) |
+| [0048-rotate-image](https://github.com/JitendraKumar1092/LeetCode/tree/master/0048-rotate-image) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/JitendraKumar1092/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0407-trapping-rain-water-ii](https://github.com/JitendraKumar1092/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [1364-tuple-with-same-product](https://github.com/JitendraKumar1092/LeetCode/tree/master/1364-tuple-with-same-product) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/JitendraKumar1092/LeetCode/tree/master/0048-rotate-image) |
 | [0407-trapping-rain-water-ii](https://github.com/JitendraKumar1092/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/JitendraKumar1092/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2145-grid-game](https://github.com/JitendraKumar1092/LeetCode/tree/master/2145-grid-game) |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/JitendraKumar1092/LeetCode/tree/master/0048-rotate-image) |
 | [1013-fibonacci-number](https://github.com/JitendraKumar1092/LeetCode/tree/master/1013-fibonacci-number) |
 | [1477-product-of-the-last-k-numbers](https://github.com/JitendraKumar1092/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [2448-count-number-of-bad-pairs](https://github.com/JitendraKumar1092/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
