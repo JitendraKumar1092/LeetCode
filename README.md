@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/JitendraKumar1092/LeetCode/tree/master/0016-3sum-closest) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/JitendraKumar1092/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0407-trapping-rain-water-ii](https://github.com/JitendraKumar1092/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [1364-tuple-with-same-product](https://github.com/JitendraKumar1092/LeetCode/tree/master/1364-tuple-with-same-product) |
 | [1477-product-of-the-last-k-numbers](https://github.com/JitendraKumar1092/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/JitendraKumar1092/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1013-fibonacci-number](https://github.com/JitendraKumar1092/LeetCode/tree/master/1013-fibonacci-number) |
 | [2205-find-good-days-to-rob-the-bank](https://github.com/JitendraKumar1092/LeetCode/tree/master/2205-find-good-days-to-rob-the-bank) |
 ## Counting
