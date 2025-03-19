@@ -148,4 +148,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/JitendraKumar1092/LeetCode/tree/master/1013-fibonacci-number) |
+## String
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/JitendraKumar1092/LeetCode/tree/master/0014-longest-common-prefix) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/JitendraKumar1092/LeetCode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
